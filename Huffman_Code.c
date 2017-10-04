@@ -3,8 +3,6 @@ Program : This code will encode and decode the text which is present in "file.tx
             The code will automatically make the two file
             One will be "encode.txt" which will have binary string
             Second will be "decode.txt" which will decode the binary string to give back the original string
-Author  : Bansi Gajera, Jeet Jivrajani ,Maharshi Doshi ,Dhwani Mehta
-Group No: 12
 */
 
 #include<stdio.h>
