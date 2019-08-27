@@ -1,5 +1,5 @@
 # Huffman-Code-Data-Compression-
-#By Jeet Jivrajani
+#By Dhwani Mehta
 
 The code will encode and decode the text which is present in "file.txt"
 You need to provide the content in file.txt.
